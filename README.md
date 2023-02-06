@@ -1,14 +1,15 @@
+Name: Kie MacPherson
+Info: kiem@uoregon.edu
+
 # UOCIS322 - Project 2 #
 
 This project will get you started with Docker and Flask. You need to have Docker set up on your machine to complete this project. You can alternatively use the machine we talked about in class.
 
 ## Getting started
 
-* Read every line of the docker file.
+* Go to `web/`. Read every line of the docker file and the simple flask app.
 
-* Go to `web/`  and read every line of the flask app.
-
-* **Go back to the main directory**, and build the simple flask app image using
+* Build the simple flask app image using
 
   ```
   docker build -t some-image-name .
